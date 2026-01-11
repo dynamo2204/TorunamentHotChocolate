@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/TorunamentHotChocolate/tournament.db
+/TorunamentHotChocolate/tournament.db-shm
+/TorunamentHotChocolate/tournament.db-wal
