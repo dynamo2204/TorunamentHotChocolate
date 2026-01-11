@@ -1,0 +1,6 @@
+@TorunamentHotChocolate_HostAddress = http://localhost:5085
+
+GET {{TorunamentHotChocolate_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
