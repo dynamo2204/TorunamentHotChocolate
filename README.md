@@ -54,7 +54,7 @@ query {
 Jeżeli w odpowiedzi pokazuje, że nie masz uprawnień to jesteś niezalogowany
 
 
-7. Start turnieju
+7. Rozegranie turnieju
 
 mutation {
   playMatch(matchId: 1, winnerId: 1) {
